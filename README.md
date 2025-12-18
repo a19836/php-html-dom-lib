@@ -1,7 +1,7 @@
 # PHP Html Dom Lib
 
 > Original Repos:   
-> - PHP Html Dom Lib: https://github.com/a19836/phphtmldomlib/   
+> - PHP Html Dom Lib: https://github.com/a19836/php-html-dom-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
