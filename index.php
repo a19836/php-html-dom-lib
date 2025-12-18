@@ -59,7 +59,7 @@ p {margin:0 0 20px; text-align:center;}
 	<h5>Usage</h5>
 	<div class="code">
 		<textarea readonly>
-include __DIR__ . "/HtmlDomHandler.php";
+include __DIR__ . "/lib/HtmlDomHandler.php";
 
 //init html dom handler
 $HtmlDomHandler = new HtmlDomHandler($html, $encoding = "utf-8");

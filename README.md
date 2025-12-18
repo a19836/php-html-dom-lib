@@ -35,7 +35,7 @@ To see a working example, open [index.php](index.php) on your server.
 ## Usage
 
 ```php
-include __DIR__ . "/HtmlDomHandler.php";
+include __DIR__ . "/lib/HtmlDomHandler.php";
 
 //init html dom handler
 $HtmlDomHandler = new HtmlDomHandler($html, $encoding = "utf-8");
